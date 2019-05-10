@@ -18,6 +18,7 @@ public class Hello {
         // TODO code application logic here
         System.out.println("Hello jepan!");
         System.out.println("Hallo Hallo Jepang");
+        //test123
     }
     
 }
