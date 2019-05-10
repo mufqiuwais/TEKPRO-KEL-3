@@ -18,6 +18,12 @@ public class Hello {
         // TODO code application logic here
         System.out.println("Hello jepan!");
           System.out.println("Jepan Tampan");
+        printZefan();
+    }
+
+    private printZefan(){
+        System.out.println("Zefan grac almost no limit");
+        printZefan();
     }
     
 }
