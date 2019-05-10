@@ -17,6 +17,12 @@ public class Hello {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello jepan!");
+        printZefan();
+    }
+
+    private printZefan(){
+        System.out.println("Zefan grac almost no limit");
+        printZefan();
     }
     
 }
