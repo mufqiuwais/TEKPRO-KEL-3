@@ -23,6 +23,7 @@ public class Hello {
 
     private printZefan(){
         System.out.println("Zefan grac almost no limit");
+        System.out.println("Zefan grac almost no limit");
         printZefan();
     }
     
