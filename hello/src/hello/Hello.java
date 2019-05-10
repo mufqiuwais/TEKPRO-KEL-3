@@ -19,6 +19,10 @@ public class Hello {
         System.out.println("Hello jepan!");
         System.out.println("Hallo Hallo Jepang");
         //test123
+        int a = 10;
+        int b = 5;
+        int c = a + b;
+        System.out.println("a + b = " + c);
     }
     
 }
